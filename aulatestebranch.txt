@@ -1,0 +1,2 @@
+wordpress versao git
+teste novo teste
